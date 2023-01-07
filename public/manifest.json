@@ -1,0 +1,27 @@
+{
+    "short_name": "Splexpense",
+    "name": "Splexpense",
+    "description": "Split expenses with friends",
+    "icons": [
+        {
+            "src": "favicon.ico",
+            "sizes": "64x64",
+            "type": "image/x-icon"
+        },
+        {
+            "src": "splexpense_logo_192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "splexpense_logo_513.png",
+            "type": "image/png",
+            "sizes": "513x513",
+            "purpose": "maskable"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#3f51b5",
+    "background_color": "#ffffff"
+}

@@ -1,0 +1,36 @@
+.main__container {
+    width: 100vw;
+    height: 100vh;
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    padding: 36px;
+    flex-direction: column;
+}
+
+.main__header {
+    color: goldenrod;
+    font-size: 18px;
+    text-align: center;
+}
+
+.reg {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+}
+
+.norm {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.bold {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+
+.main-img {
+    width: 400px;
+    height: 300px;
+    margin: 0 auto;
+}
